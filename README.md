@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ilyaszhunussov
 - 😎 I’m interested in creating cool products to make users jobs done :D 
-- 🌱 I’m currently learning product management at GoPractice.
+- 🌱 I continue learning and practicing product and project managemen
 - 🤝 I’m looking to collaborate with web developers (PHP, VueJS, Golang)
-- 📫 Reach me by Telegram @ilyasz1 or email ilyas.zhunussov@gmail.com 
+- 📫 Reach me by Telegram @ilyasq1 or email ilyas.zhunussov@gmail.com 
 
 <!---
 ilyaszhunussov/ilyaszhunussov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
